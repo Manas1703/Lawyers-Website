@@ -1,0 +1,14 @@
+note: first file being renderes is app.js 
+1) Main logo on the top of the page in left side is a little blury
+	code is in header.js named logo
+
+2) In the mobile version meaning NavMobile.js file
+	the side page that opens giving options like home what we do etc is from navigations which is in data.js
+	fix the frontend of that
+
+3)SOLUTION 
+	when we hover over home,what we do, our team etc these options the color shown is brown
+	we can change it by going into tailwind.config.css line 24 hover : put rex code for the color
+
+4) When nav contents such as what we do, about are being written in Nav.js then due to the pic Aklank jain & associates
+its height is getting affected.
